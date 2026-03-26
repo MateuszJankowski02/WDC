@@ -1,0 +1,13 @@
+Podsumowanie najgroźniejszych incydentów bezpieczeństwa w internecie (na podstawie raportu CERT Polska 2024)
+
+W 2024 roku najpoważniejszym zagrożeniem pozostał ransomware. CERT Polska zarejestrował 147 incydentów tego typu, a ich destrukcyjność wynikała nie tylko z szyfrowania danych, ale również z powszechnego stosowania modelu double extortion, czyli jednoczesnej kradzieży danych i szantażu ich publikacją. Szczególnie groźne były przypadki dotyczące firm Atende Software i AIUT, gdzie ujawniono m.in. dane techniczne i uwierzytelniające, co mogło prowadzić do kolejnych naruszeń, także w obszarze systemów przemysłowych.
+
+Drugim kluczowym obszarem były wycieki danych. W raporcie wskazano m.in. incydenty dotyczące superpharm.pl (ok. 1,6 mln klientów), megamodels.pl oraz sklepbaterie.pl. Skutki takich zdarzeń nie ograniczają się do utraty poufności danych - wycieki stają się paliwem dla kolejnych ataków, np. przejęć kont, oszustw finansowych czy phishingu ukierunkowanego.
+
+Bardzo wysokie ryzyko tworzyły również działania grup APT powiązanych z obcymi państwami (m.in. UNC1151 i APT28). Ich aktywność obejmowała kampanie phishingowe, dystrybucję malware, kradzież poświadczeń do poczty oraz działania dezinformacyjne. Celem były już nie tylko instytucje publiczne i duże organizacje, ale również mniejsze podmioty z łańcucha dostaw oraz osoby z otoczenia ofiar.
+
+Istotnym zagrożeniem były także masowe oszustwa reklamowe na dużych platformach internetowych. CERT Polska odnotował silny wzrost tego zjawiska - tylko w I kwartale 2024 r. zidentyfikowano blisko 14 tys. domen związanych z fałszywymi inwestycjami. Przestępcy wykorzystywali wizerunki osób publicznych, fałszywe materiały informacyjne i bieżące wydarzenia (np. powódź), aby zwiększyć wiarygodność oszustw.
+
+W 2024 roku utrzymywał się również wysoki poziom zagrożeń technicznych związanych z krytycznymi podatnościami i malware mobilnym. CERT Polska wysłał 11 913 powiadomień dotyczących 119 podatności, z których część była aktywnie wykorzystywana. Jednocześnie zidentyfikowano 4202 próbki złośliwego oprogramowania na Androida, a kampania Joker pokazała, że malware może skutecznie przenikać nawet do oficjalnego sklepu Google Play.
+
+Podsumowując, najgroźniejsze incydenty w 2024 roku tworzyły powiązany ekosystem ryzyka: ransomware, wycieki danych, ataki APT, oszustwa socjotechniczne i wykorzystywanie krytycznych luk bezpieczeństwa. Wspólną cechą tych zagrożeń była skala, rosnąca profesjonalizacja sprawców oraz łączenie wielu technik w jednym łańcuchu ataku.

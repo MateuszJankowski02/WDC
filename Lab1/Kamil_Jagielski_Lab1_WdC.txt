@@ -1,0 +1,102 @@
+Politechnika Krakowska im.
+Tadeusza Kościuszki
+Wydział Informatyki I Matematyki
+Kierunek Informatyka
+Specjalizacja Cyberbezpieczeństwo
+Laboratorium z przedmiotu “Wstęp do cyberbezpieczeństwa”
+Laboratorium nr 1, 13.03.2026 r.
+Prowadząca przedmiot:
+mgr inż. Dominika Cywicka
+Wykonał:
+Kamil Jagielski
+Grupa: CY2
+Numer albumu: D/147548
+
+Raport roczny zespołu CERT Polska za 2024 rok ukazuje krajobraz
+cyberzagrożeń jako środowisko dynamiczne, wielowymiarowe i coraz bardziej
+złożone, w którym tradycyjne formy przestępczości cyfrowej współistnieją z
+zaawansowanymi operacjami o charakterze strategicznym. Analiza
+najgroźniejszych incydentów bezpieczeństwa pozwala wyróżnić kilka
+kluczowych kategorii zagrożeń, których wspólnym mianownikiem jest wysoki
+poziom destrukcyjności, trudność wykrycia oraz rosnąca skuteczność wobec
+użytkowników i instytucji.
+Najpoważniejsze konsekwencje dla funkcjonowania organizacji przynosiły w
+2024 roku ataki typu ransomware, które pozostają centralnym elementem
+ekosystemu cyberprzestępczości. Mechanizm ich działania, polegający na
+szyfrowaniu danych i wymuszaniu okupu, został dodatkowo wzmocniony przez
+powszechne stosowanie techniki podwójnego wymuszenia, polegającej na
+wcześniejszej kradzieży danych i groźbie ich publikacji. Skala zjawiska była
+znacząca.
+Odnotowano
+147
+incydentów,
+obejmujących
+zarówno
+przedsiębiorstwa, jak i instytucje publiczne oraz osoby prywatne. Szczególnie
+niebezpieczne były przypadki, w których skutkiem ataków było ujawnienie
+wrażliwych danych technicznych i uwierzytelniających, co mogło prowadzić do
+wtórnych naruszeń bezpieczeństwa, w tym w obszarze systemów
+przemysłowych. Charakterystyczną cechą tych incydentów była również ich
+długotrwałość atakujący nierzadko pozostawali w infrastrukturze ofiary przez
+wiele miesięcy przed aktywacją właściwego etapu ataku, co znacząco utrudniało
+analizę i reakcję.
+Drugim obszarem o krytycznym znaczeniu były wycieki danych, które stanowią
+zarówno konsekwencję innych incydentów, jak i autonomiczne zagrożenie dla
+bezpieczeństwa informacji. Ich istota polega nie tylko na utracie poufności, lecz
+także na potencjalnym wykorzystaniu danych do dalszych operacji
+przestępczych, takich jak przejęcia kont, oszustwa finansowe czy ataki na
+infrastrukturę organizacji. CERT Polska podkreśla, że wycieki często wynikają z
+włamań do systemów internetowych i prowadzą do publikacji baz danych lub
+danych uwierzytelniających w przestrzeni sieciowej, w tym w sieci TOR.
+Szczególnie niebezpieczny jest ich efekt kaskadowy, polegający na wtórnym
+wykorzystaniu tych samych danych w wielu usługach, co zwiększa skalę
+potencjalnych szkód.
+Istotną kategorię zagrożeń stanowiły także kampanie socjotechniczne, które się
+wysoką skutecznością. Wśród nich szczególne znaczenie miały wielkoskalowe
+oszustwa wykorzystujące komunikację elektroniczną, podszywanie się pod
+instytucje publiczne oraz manipulowanie emocjami ofiar. Mechanizmy te
+obejmowały zarówno klasyczne phishingi, jak i bardziej złożone scenariusze,
+takie jak fałszywe wezwania organów ścigania czy kampanie wykorzystujące
+motyw relacji rodzinnych. Ich niebezpieczeństwo wynika z masowości oraz
+
+zdolności adaptacji do zmieniających się warunków, w tym omijania systemów
+filtrujących.
+W kontekście technicznym szczególne znaczenie miały również podatności w
+powszechnie używanym oprogramowaniu i urządzeniach sieciowych. Ich
+wykorzystanie umożliwiało przejęcie pełnej kontroli nad systemami, często bez
+konieczności uwierzytelnienia, co czyniło je atrakcyjnym wektorem ataku dla grup
+przestępczych i państwowych. CERT Polska rozesłał niemal 12 tysięcy
+powiadomień dotyczących 119 podatności, co świadczy o szerokim
+rozpowszechnieniu podatnych systemów. Szczególnie niebezpieczne były luki
+umożliwiające zdalne wykonanie kodu oraz przejęcie infrastruktury
+zarządzającej, co mogło prowadzić do kompromitacji całych sieci
+organizacyjnych.
+Uzupełnieniem powyższego obrazu są zagrożenia związane ze złośliwym
+oprogramowaniem, w tym malware mobilnym. W 2024 roku zidentyfikowano
+ponad 4200 próbek złośliwego oprogramowania na urządzenia z systemem
+Android, co wskazuje na rosnące znaczenie tego wektora ataku. Szczególnie
+istotne jest przenikanie złośliwych aplikacji do oficjalnych kanałów dystrybucji,
+takich jak sklepy z aplikacjami, co zwiększa ich wiarygodność i zasięg
+oddziaływania.
+Najciekawsze moim zdaniem były ataki związane z aktywnością grup APT
+powiązanych z państwami i realizujących cele wywiadowcze oraz
+destabilizacyjne. W 2024 roku działania tych grup cechowały się wysokim
+stopniem zaawansowania i szerokim spektrum celów, obejmującym zarówno
+instytucje publiczne, jak i podmioty prywatne oraz osoby powiązane z
+atakowanymi organizacjami. Ataki te koncentrowały się na pozyskiwaniu danych
+uwierzytelniających, dystrybucji złośliwego oprogramowania oraz infiltracji
+systemów, w tym infrastruktury przemysłowej. Co istotne, rozszerzenie zakresu
+celów na mniejsze podmioty oraz elementy łańcuchów dostaw świadczy o
+ewolucji strategii atakujących, zmierzającej do wykorzystania słabszych ogniw
+systemu bezpieczeństwa.
+Podsumowując, analiza raportu wskazuje, że najgroźniejsze incydenty
+bezpieczeństwa w 2024 roku charakteryzowały się nie tylko wysoką
+szkodliwością, lecz także rosnącą złożonością i współzależnością. Ransomware,
+wycieki danych, działalność grup APT, masowe kampanie oszustw oraz
+krytyczne podatności tworzą spójny ekosystem zagrożeń, w którym
+poszczególne elementy wzajemnie się wzmacniają. W efekcie współczesne
+cyberzagrożenia należy postrzegać nie jako odrębne zjawiska, lecz jako
+zintegrowany system ryzyka, wymagający kompleksowych i wielopoziomowych
+strategii przeciwdziałania.
+
+
