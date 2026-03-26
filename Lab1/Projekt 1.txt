@@ -1,0 +1,12 @@
+WdC
+
+Zadanie 1
+Zapoznaj się z tekstem normy ISO 27001 oraz polską ustawą o ochronie
+danych osobowych oraz przygotuj opracowanie, gdzie podsumujesz:
+► Prawa konsumenta systemu informatycznego
+► Obowiązki developera oprogramowania systemu informatycznego
+► Obowiązki providera usług oferowanych przez system informatyczny
+Zapoznaj się z tekstem raportu CERT i podsumuj najgroźniejsze incydenty
+bezpieczeństwa w Internecie.
+
+

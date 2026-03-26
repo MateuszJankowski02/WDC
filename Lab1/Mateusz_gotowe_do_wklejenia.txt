@@ -1,0 +1,12 @@
+Mateusz:
+● Klauzula 10.1.2 (Change management): Provider powinien stosować formalny proces zarządzania zmianami obejmujący rejestr zmian, ocenę ryzyka, akceptację przez uprawnione osoby oraz plan wycofania (rollback) dla zmian krytycznych.
+● Klauzula 10.1.3 (Segregation of duties): Provider ma obowiązek rozdzielić role i uprawnienia (np. wdrożenie, administracja, audyt), aby ograniczyć ryzyko nadużyć i błędów wynikających z koncentracji pełnej kontroli u jednej osoby.
+● Klauzula 10.5.1 (Information back-up): Provider musi utrzymywać politykę kopii zapasowych obejmującą częstotliwość wykonywania backupów, retencję, szyfrowanie oraz regularne testy odtwarzania danych.
+● Klauzula 10.10.3 (Protection of log information): Dostawca powinien chronić logi przed nieautoryzowanym dostępem i modyfikacją, zapewniając ich integralność, poufność oraz dostępność na potrzeby audytu i analizy incydentów.
+● Klauzula 11.2.4 (Review of user access rights): Provider jest zobowiązany do cyklicznego przeglądu uprawnień użytkowników, zwłaszcza kont uprzywilejowanych, oraz do niezwłocznego odbierania zbędnych lub nieaktualnych dostępów.
+● Klauzula 12.3.2 (Key management): Provider powinien wdrożyć zarządzanie kluczami kryptograficznymi w całym cyklu życia klucza (generowanie, dystrybucja, przechowywanie, rotacja, unieważnianie i bezpieczne usunięcie).
+● Klauzula 12.6.1 (Control of technical vulnerabilities): Dostawca usług ma obowiązek prowadzić proces zarządzania podatnościami, obejmujący regularne skanowanie, priorytetyzację ryzyk i terminową remediację, szczególnie dla podatności krytycznych.
+● Klauzula 14.1.5 (Testing and maintaining continuity plans): Provider powinien regularnie testować i aktualizować plany ciągłości działania oraz odtwarzania po awarii, dokumentując wyniki testów i działania korygujące.
+
+● Art. 10 ust. 4 ustawy o ochronie danych osobowych: Podmiot, który wyznaczył inspektora ochrony danych, zawiadamia Prezesa UODO o każdej zmianie danych inspektora oraz o jego odwołaniu w terminie 14 dni.
+● Art. 11a ustawy o ochronie danych osobowych: Provider może wyznaczyć osobę zastępującą IOD na czas jego nieobecności, zapewniając ciągłość realizacji obowiązków związanych z ochroną danych osobowych.

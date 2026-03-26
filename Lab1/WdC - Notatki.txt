@@ -1,0 +1,123 @@
+WdC - Notatki
+Obowiązki providera usług oferowanych przez system informatyczny
+
+Jakub - ISO:
+●​ Klauzula 6.2.3 (Umowy z podmiotami zewnętrznymi): Provider musi przestrzegać
+polityki bezpieczeństwa informacji organizacji i stosować środki kontrolne chroniące
+aktywa, w tym mechanizmy ochrony przed złośliwym oprogramowaniem.
+●​ Klauzula 6.2.3: Dostawca jest zobowiązany do utrzymywania jasnej struktury
+raportowania, stosowania formalnego procesu autoryzacji dostępu użytkowników
+oraz niezwłocznego powiadamiania o incydentach i naruszeniach bezpieczeństwa.
+Provider ma obowiązek poddać się audytom przeprowadzanym przez strony trzecie
+oraz zagwarantować ciągłość usług w oparciu o priorytety biznesowe organizacji.
+●​ Klauzula 8.1.2: W przypadku dostarczania personelu przez podwykonawcę, provider
+musi jasno określić zasady sprawdzania przeszłości pracowników oraz procedury
+powiadamiania, jeśli wyniki weryfikacji budzą wątpliwości.
+●​ Klauzula 10.2.1: Provider musi zapewnić, że wszystkie zabezpieczenia, definicje
+usług i poziomy ich dostarczania zawarte w umowie są faktycznie wdrożone i
+utrzymywane.
+●​ Klauzula 10.2.2: Dostawca jest zobowiązany do monitorowania wydajności usług,
+regularnego przeglądu raportów oraz udostępniania ścieżek audytu i zapisów
+zdarzeń bezpieczeństwa.
+●​ Klauzula 10.2.2: Provider musi zapewnić organizacji wgląd w kluczowe działania
+dotyczące bezpieczeństwa, takie jak zarządzanie zmianami oraz identyfikacja
+podatności.
+●​ Klauzula 13.2.1: W przypadku awarii lub naruszeń, provider ma obowiązek
+szczegółowego dokumentowania wszystkich działań podjętych w trybie awaryjnym i
+raportowania ich do kierownictwa.
+●​ Klauzula 14.1.3: Dostawca musi posiadać i utrzymywać plany ciągłości działania,
+które umożliwią przywrócenie usług w wymaganym czasie po wystąpieniu katastrofy
+lub awarii.
+●​ Klauzula 15.3.1: Osoba przeprowadzająca audyt u providera musi być niezależna
+od audytowanych działań, a wszystkie dostępy audytora do systemów operacyjnych
+muszą być monitorowane i logowane.
+
+Mateusz:
+Kamil:
+Klauzula 10.3.1:​
+Provider musi monitorować wykorzystanie zasobów systemowych oraz prognozować
+
+przyszłe zapotrzebowanie, aby zapobiegać przeciążeniom i zapewnić ciągłość działania
+systemów.
+Klauzula 10.3.2:​
+Nowe systemy, aktualizacje i wersje muszą mieć zdefiniowane kryteria akceptacji oraz być
+przetestowane przed wdrożeniem do środowiska produkcyjnego.
+Klauzula 10.6.1:​
+Provider musi zarządzać i kontrolować sieci w sposób zapewniający ochronę przed
+zagrożeniami oraz bezpieczeństwo danych przesyłanych w sieci.
+Klauzula 10.6.2:​
+Wymagane jest określenie i uwzględnienie w umowach poziomu bezpieczeństwa oraz
+wymagań zarządzania dla usług sieciowych (również outsourcowanych).
+Klauzula 10.10.4:​
+Aktywności administratorów i operatorów muszą być rejestrowane oraz regularnie
+przeglądane.
+Klauzula 10.10.5:​
+Błędy systemowe i awarie muszą być logowane, analizowane oraz obsługiwane zgodnie z
+określonymi procedurami.
+Klauzula 10.10.6:​
+Systemy informatyczne muszą mieć zsynchronizowany czas, aby zapewnić poprawność
+logów i możliwość ich wykorzystania np. w analizie incydentów.
+Klauzula 12.4.1:​
+Provider musi kontrolować instalację i użycie oprogramowania operacyjnego, aby
+zapobiegać nieautoryzowanym zmianom.
+Klauzula 12.4.2:​
+Dane używane do testów muszą być odpowiednio zabezpieczone przed nieautoryzowanym
+dostępem i wykorzystaniem.
+Klauzula 12.5.2:​
+Po zmianach systemów operacyjnych należy przeprowadzać przegląd aplikacji, aby
+upewnić się, że działają poprawnie i bezpiecznie.
+Klauzula 12.5.3:​
+Zmiany w pakietach oprogramowania powinny być ograniczone i kontrolowane.
+Klauzula 13.1.1:​
+Provider musi zapewnić mechanizmy zgłaszania zdarzeń bezpieczeństwa przez
+użytkowników i systemy.
+Klauzula 13.2.2 :​
+Organizacja powinna analizować incydenty bezpieczeństwa w celu zapobiegania ich
+powtórzeniu.
+
+Klauzula 13.2.3:​
+Provider musi zapewnić odpowiednie gromadzenie dowodów w przypadku incydentów (np.
+do celów prawnych).
+
+Radosław:
+Paweł: ustawa o ochronie danych:
+●​ Art. 8 „Administrator i podmiot przetwarzający są obowiązani do wyznaczenia
+inspektora ochrony danych (…)”
+●​ Art. 10 ust. 1 „Podmiot, który wyznaczył inspektora, zawiadamia Prezesa Urzędu
+(…) w terminie 14 dni (…)”
+●​ Art. 11. „Podmiot, który wyznaczył inspektora, udostępnia dane inspektora (...)
+niezwłocznie po jego wyznaczeniu, na swojej stronie internetowej, a jeżeli nie
+prowadzi własnej strony internetowej, w sposób ogólnie dostępny w miejscu
+prowadzenia działalności.
+●​ Art 25 ust. 2 Podczas certyfikacji: „Osoba przeprowadzająca czynności
+sprawdzające jest uprawniona (...) 3. oględzin urządzeń, nośników oraz systemów
+informatycznych lub teleinformatycznych służących do przetwarzania danych; ”
+●​ Art 58. „Jeżeli Prezes Urzędu, na podstawie posiadanych informacji, uzna, że
+doszło do naruszenia przepisów dotyczących przetwarzania danych osobowych,
+może żądać wszczęcia postępowania dyscyplinarnego lub innego przewidzianego
+prawem postępowania przeciwko osobom, które dopuściły się naruszeń, i
+poinformowania go, w określonym terminie, o wynikach tego postępowania
+podjętych działaniach. ”
+●​ Art. 84 ust. 1 (Kontrola przestrzegania przepisów o ochronie danych
+osobowych) “Kontrolujący ma prawo: (...) 3. przeprowadzania oględzin miejsc,
+przedmiotów, urządzeń, nośników oraz systemów informatycznych lub
+teleinformatycznych służących do przetwarzania danych;”
+●​ Art. 107
+○​ 1. Kto przetwarza dane osobowe, choć ich przetwarzanie nie jest
+dopuszczalne albo do ich przetwarzania nie jest uprawniony, podlega
+grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat
+dwóch.
+○​ 2. Jeżeli czyn określony w ust. 1 dotyczy danych ujawniających pochodzenie
+rasowe lub etniczne, poglądy polityczne, przekonania religijne lub
+światopoglądowe, przynależność do związków zawodowych, danych
+genetycznych,
+danych
+biometrycznych
+przetwarzanych
+w
+celu
+jednoznacznego zidentyfikowania osoby fizycznej, danych dotyczących
+zdrowia, seksualności lub orientacji seksualnej, podlega grzywnie, karze
+ograniczenia wolności albo pozbawienia wolności do lat trzech.
+
+
