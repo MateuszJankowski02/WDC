@@ -1,0 +1,47 @@
+WdC Lab 3
+
+Implementacja algorytmu RSA 1. Wczytanie wiadomości z pliku, wiadomość
+może być rozważana jako zapisana w 26 znakowym alfabecie, lub 64
+znakowym, lub alfabecie obejmującym cała tablicę ASCI (do wyboru) 2.
+Podział tekstu na bloki 10 znakowe 3. Zamiana bloków na liczby (dowolna
+metodą, byle odwracalną!) 4. Wygenerowanie klucza długości 768 bitów,
+lub dłuższego (do wyboru) 5. Zaszyfrowanie wiadomości blok po bloku 6.
+Odszyfrowanie wiadomości blok po bloku 7. Sprawdzenie zgodności
+wiadomości po odszyfrowaniu z wiadomością oryginalną blok po bloku
+
+W sprawozdaniu oprócz zaprezentowania dokumentacji kodu własnej
+implementacji odpowiedz na następujące pytania: •
+
+Uzasadnij, dlaczego wybrałeś właśnie taką wartość e (np. 3, 17, 65537):
+
+•
+
+Spróbuj zaszyfrować blok, którego wartość m ≥ n. Zanotuj wynik i
+wyjaśnij: dlaczego RSA wymaga, aby m \< n (na podstawie Twojego
+przykładu)?
+
+•
+
+Dlaczego szyfrowanie identycznych bloków daje takie same szyfrogramy?
+
+•
+
+Co to jest padding (np. OAEP) i jak rozwiązuje ten problem?
+
+Faktoryzacja RSA Cel zadania: Jak rośnie trudność faktoryzacji wraz z
+rozmiarem n? Wykonaj test czasowy dla kluczy: 32, 40, 48, 56, 64, 72,
+80, 88 bitów, używając swojej implementacji, jeżeli Twoja implementacja
+poradzi sobie z większymi — możesz dodać również 96 lub 128 bitów. 1.
+Zanotuj dla każdego: rozmiar klucza (bity), metoda faktoryzacji, czas
+łamania (s/ms), liczba iteracji, czy udało się znaleźć p i q? 2. Narysuj
+wykres: rozmiar klucza (bity) → czas faktoryzacji
+
+3. Spróbuj dopasować co najmniej dwie różne krzywe (np. liniową,
+potęgową, wykładniczą, logarytmiczną) 4. Wybierz tę, która najlepiej
+pasuje do Twoich danych (np. najmniejszy błąd / najwyższy R²) 5.
+Uzasadnij, dlaczego wybrałeś akurat ten typ funkcji, a nie inny 6.
+Spróbuj ekstrapolować i oszacować orientacyjny czas łamania klucza:
+96bitowego, 128-bitowego, 256-bitowego 7. Czy można ufać tym prognozom
+przy dużych kluczach (np. 1024, 2048 bitów)?
+
+

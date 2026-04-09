@@ -1,0 +1,3 @@
+RSA laboratory task example message.
+Each block has up to ten ASCII chars.
+Repeated block: BLOCK-1234 BLOCK-1234 BLOCK-1234.

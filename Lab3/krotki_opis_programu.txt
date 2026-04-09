@@ -1,0 +1,5 @@
+Program z Lab3 robi dwie rzeczy.
+
+W czesci pierwszej implementuje RSA od podstaw: wczytuje wiadomosc z pliku, dzieli ja na bloki po 10 znakow ASCII, zamienia kazdy blok na liczbe, generuje klucz RSA o dlugosci co najmniej 768 bitow, szyfruje i odszyfrowuje blok po bloku, a na koncu sprawdza zgodnosc z oryginalem. Program pokazuje tez, dlaczego musi byc spelnione m < n (dla m >= n dostajemy po odszyfrowaniu tylko m mod n) oraz ze bez paddingu identyczne bloki daja identyczny szyfrogram.
+
+W czesci drugiej mierzy trudnosc lamania malych kluczy RSA. Dla rozmiarow 32-88 bit uruchamia faktoryzacje metoda Pollard Rho, zapisuje czas i liczbe iteracji, dopasowuje modele (liniowy, potegowy, wykladniczy), wybiera najlepszy po R^2 i robi ekstrapolacje dla 96, 128 i 256 bit. Dzięki temu program praktycznie pokazuje, jak szybko rosnie koszt faktoryzacji wraz ze wzrostem dlugosci klucza.
