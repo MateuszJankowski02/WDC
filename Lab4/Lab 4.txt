@@ -1,0 +1,17 @@
+Lab. 4:
+• Zaimplementuj funkcję SHA 256, sprawdź, czy zachodzą dla niej własności funkcji skrótu
+• 1. czy można skrócić tekst „dowolnej” długości?
+• 2. czy po zmianie 1 losowego bitu, skrót z tego ciągu „istotnie” różni się od skrótu z wyjściowej
+widomości?
+• 3. czy biorąc dwa różne teksty i skracając je, ich odległość Hamminga jest „duża” ?
+• 4. czy tworzony jest skrót o zawsze tej samej długości ?
+• Proszę porównać czas generowania pojedynczego skrótu, który tworzy Twój program, z czasem
+tworzenia skrótu gdy wykorzystamy funkcje biblioteczne
+• Narzędzie do testowania poprawności implementacji: https://www.browserling.com/tools/sha2-hash
+• https://www.rapidtables.com/convert/number/hex-to-binary.html
+
+Bardzo trudne do sprawdzenia w prosty
+sposób, tego w ramach projektu nie
+sprawdzamy!
+
+

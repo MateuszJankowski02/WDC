@@ -15,6 +15,13 @@ For each task, build and keep context in this exact order:
 4. Constraints and assumptions.
 5. Iteration notes and next actions.
 
+## Lab Documentation Rule
+
+For every laboratory task, you MUST always generate a short, step-by-step instruction/explanation file (e.g., `README.md` inside the Lab folder). This file must:
+- Explain how the program works step-by-step.
+- Explain *why* specific steps or operations are executed (the reasoning behind the code).
+- Be written clearly and concisely in Polish.
+
 ## PDF Handling Rule
 
 Before reading content from any PDF file, always convert the PDF to TXT and use the TXT version for analysis.
